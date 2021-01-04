@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    text-align: justify;
+    
+
+}
+.half-width p{
+    line-height: 1.6;
+}
+h1 {
+    font-size: 50px;
+}
+.n-highlight{
+    color: darkorange;
+}
+
+.half-width{
+    width: 43%;
+    float: left;
+    margin-top: 2%;
+    margin-left: 4%;
+    margin-right: 2%;
+    padding-left: 1%;
+    
+}
+.half-width img{
+    width: 100%;
+}
+
+.top-banner{
+background-image: url("photos/top-banner.png");
+height: 500px;
+background-repeat: no-repeat;
+}
+
+.linku{
+    text-decoration: none;
+    background-color: green;
+    background-image: linear-gradient(45deg, rgb(0, 195, 255), rgb(27, 103, 245));
+    border-radius: 5px;
+    padding: 7px 14px;
+    color: white;
+
+
+}
